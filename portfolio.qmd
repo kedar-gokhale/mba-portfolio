@@ -1,0 +1,109 @@
+---
+title: "MBA Portfolio"
+format:
+  html:
+    theme: darkly
+    css: apa-styles-darkly.css
+    toc: false
+    page-layout: full
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+# Kedar Gokhale
+
+<img src="kedar-photo.jpeg" alt="Kedar Gokhale" style="width:150px; float:left; margin-right:20px; border-radius:50%;">
+
+📍 Vancouver, BC  
+📞 +1 (250) 213-2964  
+✉️ [kedar-gokhale@outlook.com](mailto:kedar-gokhale@outlook.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kedar-gokhale/)
+
+---
+
+## Business Analyst
+
+Results-driven and detail-oriented professional pursuing a Master of Business Administration in Business Analytics. Over 14 years of experience in designing and implementing solutions with strong analytical and problem-solving abilities. Skilled at collaborating with cross-functional teams and leveraging technical knowledge to drive business growth across global markets, including the US, UK, Australia, Germany, Finland, and India.
+
+---
+
+## Accomplishments
+
+- Developed a Power BI dashboard that accelerated deal closures by $2M.
+- Analyzed requirements for 20 clients, improving solution accuracy by 30%.
+- Drove a 10% increase in sales through requirement documentation for the Australian market.
+- Presented actionable insights to stakeholders like JP Morgan through data analysis.
+- Simplified technical concepts into business-friendly communication.
+- Led stakeholder requirement-gathering sessions to convert needs into clear business specifications.
+
+---
+
+## Key Skills
+
+- **Requirement Gathering:** Microsoft Visio  
+- **Data Analysis:** MySQL, Python, Google Colab  
+- **Visualization:** Tableau, Power BI  
+- **Project Management:** Asana, Slack, Teamwork  
+- **Other:** Agile Methodologies, Communication, Collaboration, Adaptability
+
+---
+
+## Experience
+
+### Sales Associate, Dollar Tree – Canada (09/2024 – Present)
+- Increased sales by 15% by improving product visibility and bundling.
+- Reduced out-of-stock items by 20% via inventory trend analysis.
+
+### Freelance Digital Marketing Consultant – India (08/2023 – 07/2024)
+- Lowered CPL by 25% and doubled customer base with optimized ad strategies.
+- Improved SEO performance and boosted Facebook page likes by 20%.
+
+### Digital Marketing Executive, SageSurfer – India (01/2023 – 08/2023)
+- Achieved 25% open rate and 10% CTR via email campaigns.
+- Boosted LinkedIn followers by 30% through strategic content planning.
+
+### Sales Manager, Prudentia Technology Solutions – India (07/2019 – 08/2020)
+- Contributed 5% to quarterly revenue; secured 4 new clients.
+- Implemented Salesforce CRM to streamline sales and close $1M annually.
+
+### Business Development, Media Melange – India (02/2018 – 03/2019)
+- Collected and translated user requirements; developed Swift/React Native apps.
+- Secured a $20,000 AUD contract and led agile development practices.
+
+### Operations Engineer, Nokia Siemens Networks – India (11/2009 – 05/2016)
+- Led a team of 5 engineers; supported clients like Vodafone and Airtel.
+- Grew business revenue by $40K USD and enhanced channel profitability.
+
+---
+
+## Education
+
+- **MBA – Business Analytics**, University Canada West, Vancouver (2025)  
+  _Courses: Machine Learning Tools, AI in Business, Cloud Technologies_  
+- **PGDBM**, SIMSR Mumbai (2018)  
+- **B.E.**, Pune University (2009)
+
+---
+
+## Certifications
+
+- Certified Digital Marketing Associate – University Canada West (2024)  
+- Salesforce Certified Business Analyst – Udemy (2019)
+
+---
+
+## Projects
+
+- **UI Project:** Predicting Employee Satisfaction and Salary Hike Using ML (04/2025)
+
+---
+
+## Volunteering
+
+- **Vancouver Fencing World Cup**, Richmond BC (11/2024)
+
+---
+
+## Appendix
+
+This portfolio was created with the help of a Large Language Model (LLM), ChatGPT to be more precise, as it assisted me in the brainstorming and rough drafting process. I asked the LLM to come up with a sample structure of a one-page MBA portfolio and sample descriptions of the parts such as my bio, accomplishments, and work experience. Although the LLM was a valuable starting point, I still introduced a number of modifications to make sure that the end result was a truly personal product containing my own voice, valid career history, and quantifiable outcomes. Like in the case of the LLM, a generic statement was initially proposed such as: He is an ardent business analyst, who wants to see companies improve. I have changed this to a more concrete and specific description: “Results-driven and detail-oriented professional pursuing a Master of Business Administration in Business Analytics. Over 14 years of experience in designing and implementing solutions.” All experience sections were also edited and expanded with the help of my actual job titles, employers, metrics, and tools used. The LLM gave me the opportunity to simplify phraseology and proposed construction, but each word was checked, tailored, and rewritten as it was so I can say it is my real experience and key attributes. AI as a collaborative tool enabled me to think critically about how to place myself professionally, as well as remain clear and consistent throughout the portfolio. It also expedited the initial drafting as now I spend less time on drafting the initial work and spend more working on editing designs and layout with Quarto. I recognize and acknowledge the use of ChatGPT in writing the content to be transparent and academically honest.
